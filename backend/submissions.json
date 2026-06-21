@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1781953211077",
+    "name": "Test User",
+    "email": "test@example.com",
+    "message": "Hello from developer verification!",
+    "createdAt": "2026-06-20T11:00:11.078Z"
+  },
+  {
+    "id": "1781953616858",
+    "name": "Browser Test",
+    "email": "browser@test.com",
+    "message": "Automated UI test verification.",
+    "createdAt": "2026-06-20T11:06:56.858Z"
+  }
+]
